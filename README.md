@@ -18,7 +18,7 @@
 #### -Un mayor grado de educacion esta relacionado con un menor grado de desempleo
 #### -Un mayor indice de desarrollo humano provoca que la pobreza sea menor
 
-#### Aca abajo podemos observar el mapa de calor entre las variables antes mencionadas y asi pudimos obtener nuestra conclusion
+#### Aca abajo podemos observar el mapa de calor que representa la relacion que hay entre las variables antes mencionadas y asi pude obtener nuestra conclusion
 
 <image src="src/Data/imagenes/relacion.JPG">  
 
