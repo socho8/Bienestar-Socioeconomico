@@ -20,7 +20,7 @@
 
 #### Aca abajo podemos observar el mapa de calor entre las variables antes mencionadas y asi pudimos obtener nuestra conclusion
 
-<image src="src/Data/imagenes/relacion.jpg">  
+<image src="src/Data/imagenes/relacion.JPG">  
 
 ## CONCLUSION
 #### En este caso podriamos decir que refutamos nuestra hipotesis principal ya que a simple vista y luego de realizar el analisis de los datos podemos observar que no hay una correlacion fuerte entre el indice de alfabetizacion y la cantidad de homicidios que existen en un pais.
